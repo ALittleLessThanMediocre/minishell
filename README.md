@@ -11,7 +11,7 @@ How to use Minishell
 
 Enter the minishell directory after cloning and run the following command 
 
->> make
+->> make
 
 from there we can run our minishell by running ./minishell
 
